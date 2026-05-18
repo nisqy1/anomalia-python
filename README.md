@@ -110,7 +110,7 @@ Uso da biblioteca SHAP para interpretação das previsões do modelo.
 ## 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/nisqy1/anomalia-python.git
 
 ## 2️⃣ Instale as dependências
 
